@@ -1,6 +1,4 @@
 #include "gamelib.h"
-#include "gamelib.h"
-
 // Variabili globali
 static Zona_segrete* pFirst = NULL;
 static Zona_segrete* pLast = NULL;
